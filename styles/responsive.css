@@ -1,0 +1,1 @@
+@media (max-width: 600px) {\n    nav ul {\n        flex-direction: column;\n        align-items: flex-start;\n    }\n\n    .book-grid {\n        grid-template-columns: 1fr;\n    }\n\n    header {\n        flex-direction: column;\n        align-items: flex-start;\n    }\n}\n
